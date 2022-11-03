@@ -6,5 +6,3 @@ a repo to host and store my personal bspwm configurations
 
 applications used (arch)
 ```bspwm rofi polybar dunst thunar picom zathura spotify spicetify cava```
-
-I will soon move to void so yh
